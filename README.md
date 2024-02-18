@@ -4,13 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgy+Zabiv!;" />
 </h1>
 
-<h3 align="center">A python coder  from Serbia 🇨🇦</h3>
+<h3 align="center">A python coder  from Serbia</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
+
  
  🌱 I’m currently learning **Python, c++**
 
@@ -62,7 +61,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.donationalerts.com/c/georgyj4642442' target='_blank'><img height='64' style='border:0px;height:64px;' src='<a href="https://ibb.co/Sr7ZR19"><img src="https://i.ibb.co/Zm1bWwk/Donate-button-removebg-preview.png" alt="Donate-button-removebg-preview" border="0"></a>' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.donationalerts.com/c/georgyj4642442' target='_blank'><img height='64' style='border:0px;height:64px;' src='<a href="https://ibb.co/Sr7ZR19"><img src="https://png.pngtree.com/png-vector/20220603/ourmid/pngtree-donate-button-png-image_4813535.png" border="0"></a>' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
