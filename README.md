@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgy+Zabiv!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgy!;" />
 </h1>
 
-<h3 align="center">A python coder  from Serbia</h3>
+<h3 align="center">A python beginning programmer  from Russia</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  🌱 I’m currently learning **Python, c++**
 
 
-⚡ Fun fact **Evgenchick one love**
+⚡ Fun fact **???**
 
  </div>
  
@@ -26,10 +26,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languagesn ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c" /><br>
+    <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
 
 <br/>
@@ -48,10 +48,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https:/https://github-readme-streak-stats-salesp07.vercel.app/?user=Georgyzabiv&count_private=true&theme=react&border_radius=10%22%20alt=%22streak%20stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Georgyzabiv&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https:/https://github-readme-streak-stats-salesp07.vercel.app/?user=Georgyrs&count_private=true&theme=react&border_radius=10%22%20alt=%22streak%20stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Georgyrs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Georgyzabiv&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Georgyrs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
