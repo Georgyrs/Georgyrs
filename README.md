@@ -11,7 +11,7 @@
 <div align="center">
 
  
- 🌱 I’m currently learning **Python, c++**
+ 🌱 I’m currently learning **Python, LUA**
 
 
 ⚡ Fun fact **???**
