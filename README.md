@@ -54,14 +54,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Georgyrs/differ"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/differ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Georgyrs/Discord-bot-manager"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/Discord-bot-manager?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/Discord-bot-manager?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Georgyrs/PC-management-bot"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/PC-management-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/PC-management-bot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Georgyrs/Telegram-to-Twitter-Bot"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/Telegram-to-Twitter-Bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/Telegram-to-Twitter-Bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
