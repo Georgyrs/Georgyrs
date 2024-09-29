@@ -28,6 +28,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" /><br>
+    <img src="https://skillicons.dev/icons?i=lua" /><br>
 </div>
 
 <br/>
