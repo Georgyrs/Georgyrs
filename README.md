@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Georgyrs.visitor-badge" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgy!;" />
 </h1>
 
-<h3 align="center">A python beginning programmer  from Russia</h3>
+<h3 align="center">A python programmer  from Russia</h3>
 
 <br/>
 
@@ -13,8 +13,6 @@
  
  🌱 I’m currently learning **Python, LUA**
 
-
-⚡ Fun fact **???**
 
  </div>
  
@@ -61,7 +59,7 @@
 <br/>
 
 <div align="center">
-<a href='https://www.donationalerts.com/c/georgyj4642442' target='_blank'><img height='64' style='border:0px;height:64px;' src='<a href="https://ibb.co/Sr7ZR19"><img src="https://png.pngtree.com/png-vector/20220603/ourmid/pngtree-donate-button-png-image_4813535.png" border="0"></a>' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.donationalerts.com/c/georgyj4642442' target='_blank'><img height='64' style='border:0px;height:64px;' src='<a href="https://ibb.co/Sr7ZR19"><img src="https://png.pngtree.com/png-vector/20220603/ourmid/pngtree-donate-button-png-image_4813535.png" border="0"></a>' border='0' alt='Here you can support me!' /></a>
 </div>
 
 <br/>
