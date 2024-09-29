@@ -17,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:gosatugolukov93@gmail.com">
+  <a href="mailto:georgytugolukov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
@@ -44,29 +44,29 @@
 
 <hr/>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; font-size: 18px;">
   <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
+    <tr style="border-bottom: 2px solid #000;">
+      <td style="padding: 10px;"><b>📘 Project</b></td>
+      <td style="padding: 10px;"><b>⭐ Stars</b></td>
+      <td style="padding: 10px;"><b>🤝 Forks</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Georgyrs/Discord-bot-manager"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/Discord-bot-manager?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/Discord-bot-manager?style=flat-square&labelColor=343b41"/></td>
+      <td style="padding: 20px;"><a href="https://github.com/Georgyrs/Discord-bot-manager" style="text-decoration: none; font-weight: bold;">Discord manager</a></td>
+      <td style="padding: 20px;"><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/Discord-bot-manager?style=flat-square&labelColor=343b41"/></td>
+      <td style="padding: 20px;"><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/Discord-bot-manager?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Georgyrs/PC-management-bot"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/PC-management-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/PC-management-bot?style=flat-square&labelColor=343b41"/></td>
+      <td style="padding: 20px;"><a href="https://github.com/Georgyrs/PC-management-bot" style="text-decoration: none; font-weight: bold;">PC management-bot</a></td>
+      <td style="padding: 20px;"><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/PC-management-bot?style=flat-square&labelColor=343b41"/></td>
+      <td style="padding: 20px;"><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/PC-management-bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
-     <tr>
-      <td><a href="https://github.com/Georgyrs/Telegram-to-Twitter-Bot"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/Telegram-to-Twitter-Bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/Telegram-to-Twitter-Bot?style=flat-square&labelColor=343b41"/></td>
+    <tr>
+      <td style="padding: 20px;"><a href="https://github.com/Georgyrs/Telegram-to-Twitter-Bot" style="text-decoration: none; font-weight: bold;">Telegram-to-Twitter-Bot</a></td>
+      <td style="padding: 20px;"><img alt="Stars" src="https://img.shields.io/github/stars/Georgyrs/Telegram-to-Twitter-Bot?style=flat-square&labelColor=343b41"/></td>
+      <td style="padding: 20px;"><img alt="Forks" src="https://img.shields.io/github/forks/Georgyrs/Telegram-to-Twitter-Bot?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
