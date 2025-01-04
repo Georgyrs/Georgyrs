@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Georgiy!;" />
 </h1>
 
-<h3 align="center">A Python & Lua programmer from Russia</h3>
+<h3 align="center">Programmer from Serbia</h3>
 
 <div align="center"> 
  🌱 I’m currently learning **Python, Lua, JavaScript**
@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,lua,github, javascript" />
+    <img src="https://skillicons.dev/icons?i=python,lua,github, js" />
 </div>
 
 <hr/>
