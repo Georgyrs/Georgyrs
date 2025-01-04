@@ -5,7 +5,7 @@
 <h3 align="center">A Python & Lua programmer from Russia</h3>
 
 <div align="center"> 
- 🌱 I’m currently learning **Python, Lua**
+ 🌱 I’m currently learning **Python, Lua, JavaScript**
 </div>
 
 <div align="center"> 
@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,lua,github" />
+    <img src="https://skillicons.dev/icons?i=python,lua,github, javascript" />
 </div>
 
 <hr/>
