@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,lua,js" />
+    <img src="https://skillicons.dev/icons?i=python,lua,js,html" />
 </div>
 
 <hr/>
